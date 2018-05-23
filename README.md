@@ -1,6 +1,8 @@
-# CISample [![Build Status](https://travis-ci.com/efrenospino/CI-Demo.svg?branch=master)](https://travis-ci.com/efrenospino/CI-Demo)
+# CISample [![Build Status](https://travis-ci.com/efrenospino/CI-Demo.svg?branch=master)](https://travis-ci.com/efrenospino/CI-Demo) [![Build Status](https://www.bitrise.io/app/257d4cb2ca60e8b8/status.svg?token=S0YTnVVqXN1Cnnsc084Bvg&branch=master)](https://www.bitrise.io/app/257d4cb2ca60e8b8)
 
-This repository is a sample android project which holds continuous integration with Travis CI to keep track of testing and deployment. 
+This repository is a sample android project which holds continuous integration tools like Travis CI and Bitrise to keep track of testing, deployment and show how simple is this configuration for small projects.
+
+For Travis this is the configuration file needed:
 
 `.travis.yaml`
 ```yaml
@@ -24,3 +26,5 @@ android:
     - extra-android-support
     - sys-img-armeabi-v7a-android-22
 ```
+
+In the case of Bitrise, only is needed add the project and use the default configuration.
