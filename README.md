@@ -1,4 +1,4 @@
-# CISample [![Build Status](https://travis-ci.com/efrenospino/CI-Demo.svg?branch=master)](https://travis-ci.com/efrenospino/CI-Demo) [![Build Status](https://www.bitrise.io/app/257d4cb2ca60e8b8/status.svg?token=S0YTnVVqXN1Cnnsc084Bvg&branch=master)](https://www.bitrise.io/app/257d4cb2ca60e8b8)
+# CISample [![Build Status](https://travis-ci.com/efrenospino/CI-Demo.svg?branch=master)](https://travis-ci.com/efrenospino/CI-Demo) [![Build Status](https://app.bitrise.io/app/257d4cb2ca60e8b8/status.svg?token=S0YTnVVqXN1Cnnsc084Bvg&branch=master)](https://app.bitrise.io/app/257d4cb2ca60e8b8)
 
 This repository is a sample android project which holds continuous integration tools like Travis CI and Bitrise to keep track of testing, deployment and show how simple is this configuration for small projects.
 
